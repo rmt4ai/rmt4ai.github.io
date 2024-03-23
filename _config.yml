@@ -21,7 +21,8 @@ domain: rmt4ai.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rmt4ai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username: 
+github_username:
+
 
 # Build settings
 markdown: kramdown
