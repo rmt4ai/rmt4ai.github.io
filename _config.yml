@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  adsarwate
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 show_downloads: false
 
 plugins:
