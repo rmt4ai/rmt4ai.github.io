@@ -21,7 +21,7 @@
 title: DIMACS Workshop on Modeling Randomness in Neural Network Training
 email: anand.sarwate@rutgers.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The DIMACS Workshop on Modeling Randomness in Neural Network Training:
+  The DIMACS Workshop on Modeling Randomness in Neural Network Training - 
   Mathematical, Statistical, and Numerical Guarantees will be held from
   June 5-7, 2024 at Rutgers University
 baseurl: "" # the subpath of your site, e.g. /blog
