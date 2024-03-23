@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Workshop Schedule
-permalink: /schedule
+permalink: /schedule/
 ---
+
 
 # More information coming soon!
