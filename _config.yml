@@ -31,7 +31,7 @@ url: "https://rmt4ai.github.io" # the base hostname & protocol for your site, e.
 # github_username:  adsarwate
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 show_downloads: false
 
 plugins:
