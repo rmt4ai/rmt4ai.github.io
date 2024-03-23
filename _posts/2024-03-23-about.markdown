@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  About the workshop
-date:   
-categories: 
+date:   2024-03-23 04:11:41 -0400
+categories: updates
 ---
 
 More info coming soon!
