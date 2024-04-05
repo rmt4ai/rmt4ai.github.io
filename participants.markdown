@@ -5,7 +5,7 @@ permalink: /participants/
 ---
 
 
-# More information coming soon!
+## Confirmed Participants
 
 * [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger)
 * [Zhou Fan](http://www.stat.yale.edu/~zf59/)
@@ -16,6 +16,7 @@ permalink: /participants/
 * [Marina Meila](https://sites.stat.washington.edu/mmp/)
 * [Andrea Montanari](https://web.stanford.edu/~montanar/)
 * [Courtney Paquette](https://cypaquette.github.io/)
+* [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/)
 * [Lenka Zdeberová](https://people.epfl.ch/lenka.zdeborova/?lang=en)
 
 
