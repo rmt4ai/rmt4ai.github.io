@@ -10,13 +10,14 @@ permalink: /participants/
 * [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger)
 * [Zhou Fan](http://www.stat.yale.edu/~zf59/)
 * [David Gamarnik](https://mitsloan.mit.edu/faculty/directory/david-d-gamarnik)
-* [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) <djhsu@cs.columbia.edu>
+* [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) 
 * [Arthur Jacot](https://sites.google.com/view/arthurjacot/)
 * [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
 * [Marina Meila](https://sites.stat.washington.edu/mmp/)
 * [Andrea Montanari](https://web.stanford.edu/~montanar/)
 * [Courtney Paquette](https://cypaquette.github.io/)
 * [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/)
+* [Denny Wu](https://dennywu1.github.io/)
 * [Lenka Zdeberová](https://people.epfl.ch/lenka.zdeborova/?lang=en)
 
 

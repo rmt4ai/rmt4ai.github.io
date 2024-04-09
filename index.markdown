@@ -13,4 +13,5 @@ One goal of the workshop will be to create bridges between the different mathema
 
 # Call for participation
 
-**More information coming soon**
+* DIMACS has [set up a website for the workshop as well](http://dimacs.rutgers.edu/events/details?eID=2772).
+* If you are interested in presenting a poster and/or you want to request support for travel, [please let us know via our web form](https://docs.google.com/forms/d/e/1FAIpQLSdmOLPs60JORe8-1aTebHKmO1GI_aFwqRwZbjkYPJZj_zVyzg/viewform).
