@@ -10,6 +10,7 @@ permalink: /participants/
 * [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger)
 * [Zhou Fan](http://www.stat.yale.edu/~zf59/)
 * [David Gamarnik](https://mitsloan.mit.edu/faculty/directory/david-d-gamarnik)
+* [Mert Gürbüzbalaban](https://mert-g.org/)
 * [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) 
 * [Arthur Jacot](https://sites.google.com/view/arthurjacot/)
 * [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
