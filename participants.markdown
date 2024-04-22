@@ -17,9 +17,9 @@ permalink: /participants/
 * [Marina Meila](https://sites.stat.washington.edu/mmp/)
 * [Andrea Montanari](https://web.stanford.edu/~montanar/)
 * [Courtney Paquette](https://cypaquette.github.io/)
+* [Panos Stinis](https://www.pnnl.gov/people/panos-stinis)
 * [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/)
 * [Denny Wu](https://dennywu1.github.io/)
-* [Lenka Zdeberová](https://people.epfl.ch/lenka.zdeborova/?lang=en)
 
 
 ### Organizers
