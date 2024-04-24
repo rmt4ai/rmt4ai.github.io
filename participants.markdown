@@ -7,19 +7,21 @@ permalink: /participants/
 
 ## Confirmed Participants
 
-* [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger)
-* [Zhou Fan](http://www.stat.yale.edu/~zf59/)
-* [David Gamarnik](https://mitsloan.mit.edu/faculty/directory/david-d-gamarnik)
-* [Mert Gürbüzbalaban](https://mert-g.org/)
-* [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) 
-* [Arthur Jacot](https://sites.google.com/view/arthurjacot/)
-* [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
-* [Marina Meila](https://sites.stat.washington.edu/mmp/)
-* [Andrea Montanari](https://web.stanford.edu/~montanar/)
-* [Courtney Paquette](https://cypaquette.github.io/)
-* [Panos Stinis](https://www.pnnl.gov/people/panos-stinis)
-* [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/)
-* [Denny Wu](https://dennywu1.github.io/)
+* [Alex Cloninger](https://sites.google.com/ucsd.edu/alexandercloninger) (UCSD)
+* [Zhou Fan](http://www.stat.yale.edu/~zf59/) (Yale)
+* [David Gamarnik](https://mitsloan.mit.edu/faculty/directory/david-d-gamarnik) (MIT)
+* [Mert Gürbüzbalaban](https://mert-g.org/) (Rutgers)
+* [Nhat Ho](https://nhatptnk8912.github.io/) (UT Austin)
+* [Daniel Hsu](https://www.cs.columbia.edu/~djhsu/) (Columbia) 
+* [Arthur Jacot](https://sites.google.com/view/arthurjacot/) (NYU)
+* [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (UC Berkeley)
+* [Marina Meila](https://sites.stat.washington.edu/mmp/) (U Washington)
+* [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) 
+* [Courtney Paquette](https://cypaquette.github.io/) (McGill)
+* [Elizeveta Rebrova](https://erebrova.github.io/) (Princeton)
+* [Panos Stinis](https://www.pnnl.gov/people/panos-stinis) (PNNL)
+* [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/) (UCSD)
+* [Denny Wu](https://dennywu1.github.io/) (NYU)
 
 
 ### Organizers
