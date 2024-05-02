@@ -16,7 +16,6 @@ permalink: /participants/
 * [Arthur Jacot](https://sites.google.com/view/arthurjacot/) (NYU)
 * [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (UC Berkeley)
 * [Marina Meila](https://sites.stat.washington.edu/mmp/) (U Washington)
-* [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford) 
 * [Courtney Paquette](https://cypaquette.github.io/) (McGill)
 * [Elizeveta Rebrova](https://erebrova.github.io/) (Princeton)
 * [Panos Stinis](https://www.pnnl.gov/people/panos-stinis) (PNNL)
