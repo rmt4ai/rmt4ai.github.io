@@ -19,6 +19,7 @@ permalink: /participants/
 * [Courtney Paquette](https://cypaquette.github.io/) (McGill)
 * [Adit Radha](https://aditradha.com/)
 * [Elizeveta Rebrova](https://erebrova.github.io/) (Princeton)
+* [Katya Scheinberg](https://scheinberg.engineering.cornell.edu/)
 * [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/) (UCSD)
 * [Denny Wu](https://dennywu1.github.io/) (NYU)
 
