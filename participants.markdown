@@ -17,6 +17,7 @@ permalink: /participants/
 * [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (UC Berkeley)
 * [Marina Meila](https://sites.stat.washington.edu/mmp/) (U Washington)
 * [Courtney Paquette](https://cypaquette.github.io/) (McGill)
+* [Adit Radha](https://aditradha.com/)
 * [Elizeveta Rebrova](https://erebrova.github.io/) (Princeton)
 * [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/) (UCSD)
 * [Denny Wu](https://dennywu1.github.io/) (NYU)

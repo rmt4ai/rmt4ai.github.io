@@ -19,7 +19,7 @@ permalink: /schedule/
 
 **Deep learning based two sample tests with small data and small networks**
 
-#### **1:45 - 2:30** Speaker TBD
+#### **1:45 - 2:30** Adit Radha
 #### **2:30 – 2:50** Break
 #### **2:50 – 3:35** Zhichao Wang 
 #### **3:35 - 4:20** David Gamarnik
