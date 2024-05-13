@@ -15,7 +15,7 @@ permalink: /schedule/
 #### **10:20 – 11:05** Zhou Fan
 #### **11:05 - 11:50** Liza Rebrova
 #### **11:50 – 1:00** Lunch
-#### **1:00 – 1:45** Alex Cloninger
+#### **1:00 – 1:45** Arthur Jacot
 
 **Deep learning based two sample tests with small data and small networks**
 
@@ -42,7 +42,7 @@ permalink: /schedule/
 
 #### **9:45 - 10:30** Bruno Loureiro
 #### **10:30 – 10:45** Break
-#### **10:45 – 11:30** Arthur Jacot
+#### **10:45 – 11:30** Alex Cloninger
 
 **Beyond the Lazy/Active Dichotomy: the Importance of Mixed Dynamics in Linear Networks**
 
