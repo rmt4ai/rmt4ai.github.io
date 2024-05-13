@@ -13,13 +13,23 @@ permalink: /schedule/
 #### **9:00 – 10:00** *(Keynote)* Marina Meila 
 #### **10:00 – 10:20** Break
 #### **10:20 – 11:05** Zhou Fan
+
+**Kronecker-product random matrices and a matrix least-squares problem**
+
+*Abstract:* forthcoming.
+
 #### **11:05 - 11:50** Liza Rebrova
 #### **11:50 – 1:00** Lunch
 #### **1:00 – 1:45** Arthur Jacot
 
-**Deep learning based two sample tests with small data and small networks**
+**Beyond the Lazy/Active Dichotomy: the Importance of Mixed Dynamics in Linear Networks**
 
 #### **1:45 - 2:30** Adit Radha
+
+**How do neural networks learn features from data?**
+
+*Abstract:* Understanding how neural networks learn features, or relevant patterns in data, for prediction is necessary for their reliable use in technological and scientific applications. We propose a unifying mechanism that characterizes feature learning in neural network architectures. Namely, we show that features learned by neural networks are captured by a statistical operator known as the average gradient outer product (AGOP). Empirically, we show that the AGOP captures features across a broad class of network architectures including convolutional networks and large language models. Moreover, we use AGOP to enable feature learning in general machine learning models through an algorithm we call Recursive Feature Machine (RFM). We show that RFM automatically identifies sparse subsets of features relevant for prediction and explicitly connects feature learning in neural networks with classical sparse recovery and low rank matrix factorization algorithms. Overall, this line of work advances our fundamental understanding of how neural networks extract features from data, leading to the development of novel, interpretable, and effective models for use in scientific applications.
+
 #### **2:30 – 2:50** Break
 #### **2:50 – 3:35** Zhichao Wang 
 
@@ -44,7 +54,7 @@ permalink: /schedule/
 #### **10:30 – 10:45** Break
 #### **10:45 – 11:30** Alex Cloninger
 
-**Beyond the Lazy/Active Dichotomy: the Importance of Mixed Dynamics in Linear Networks**
+**Deep learning based two sample tests with small data and small networks**
 
 #### **11:30 - 12:15** Katya Scheinberg
 #### **12:15 – 1:30** Lunch
