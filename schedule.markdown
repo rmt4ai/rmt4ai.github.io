@@ -38,6 +38,16 @@ permalink: /schedule/
 *Abstract:* In this talk, I will first present some recent work for the extreme eigenvalues of sample covariance matrices with spiked population covariance. Extending previous random matrix theory, we will characterize the spiked eigenvalues outside the bulk distribution and their corresponding eigenvectors for a nonlinear version of the spiked covariance model. Then, we will apply this new result to deep neural network models. Many recent works have studied the eigenvalue spectrum of the Conjugate Kernel (CK) defined by the nonlinear feature map of a feedforward neural network. However, existing results only establish weak convergence of the empirical eigenvalue distribution and fall short of providing precise quantitative characterizations of the ''spike'' eigenvalues and eigenvectors that often capture the low-dimensional signal structure of the learning problem. Using our general result for spiked sample covariance matrices, we will give a quantitative description of how spiked eigenstructure in the input data propagates through the hidden layers of a neural network with random weights. As a second application, we can study a simple regime of representation learning where the weight matrix develops a rank-one signal component over gradient descent training and characterize the alignment of the target function with the spike eigenvector of the CK on test data. This analysis will show how neural networks learn useful features at the early stage of training. This is a joint work with Denny Wu and Zhou Fan.
 
 #### **3:35 - 4:20** David Gamarnik
+
+**A curious case of the symmetric binary perceptron model: Algorithms and algorithmic barriers**
+
+*Abstract:* Symmetric binary perceptron is a random model of a perceptron where a classifier is required to stay within a symmetric interval around zero, subject to randomly generated data. This model  exhibits an interesting and puzzling property: the existence of a polynomial time algorithm for finding a solution (classifier) coincides with the presence of an extreme form of  clustering. The latter means that  most of the satisfying solutions are singletons separated by large distances. For the majority of other random constraint satisfaction problems of this kind, this typically suggests algorithmic hardness, which evidently is not  the case for the symmetric perceptron model.
+ 
+In order to resolve this conundrum, we conduct a different solution space geometry analysis. We establish that the model exhibits a phase transition called  multi-overlap-gap property (m-OGP), and we show that  the onset of this property asymptotically matches the performance of the best known algorithms, such as the algorithms constructed by Kim and Rouche, and Bansal and Spencer.  Next, we establish that m-OGP is a barrier to large classes of algorithms exhibiting either stability or online features (or both).  We show that Kim-Rouche and Bansal-Spencer algorithms indeed exhibit the stability and online features, respectively. We conjecture that m-OGP marks the onset of the genuine algorithmic hardness threshold for this model.
+ 
+Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Institute of Technology)  and Changji Xu (Harvard University).
+
+
 #### **4:20 – 4:40** Break and poster set up
 #### **4:40 – 6:40** Reception and Poster Session
 
