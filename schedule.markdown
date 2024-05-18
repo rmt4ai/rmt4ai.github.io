@@ -77,6 +77,9 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 *Abstract:* We  describe a program of analysis of stochastic gradient methods on high dimensional random objectives.  We illustrate some assumptions under which the loss curves are universal, in that they can completely be described in terms of some underlying covariances.   Furthermore, we give description of these loss curves that can be analyzed precisely.   We show how this can be applied to SGD on a simple power-law model.  This is a simple two-hyperparameter family of optimization problems, which displays 4 distinct phases of loss curves; these phases are determined by the relative complexities of the target, data distribution, and whether these are ‘high-dimensional’ or not (which in context can be precisely defined).  In each phase, we can also give, for a given compute budget, the optimal parameter dimensionality. Joint work with Elliot Paquette (McGill), Jeffrey Pennington (Google Deepmind), and Lechao Xiao  (Google Deepmind).
 
 #### **3:55 - 4:40** Denny Wu
+
+**two variants of learning single-index models**
+
 #### **4:40 – 5:30** Small group discussions
 
 ### Friday, June 7, 2024
