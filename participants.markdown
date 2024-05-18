@@ -11,6 +11,7 @@ permalink: /participants/
 * [Zhou Fan](http://www.stat.yale.edu/~zf59/) (Yale)
 * [David Gamarnik](https://mitsloan.mit.edu/faculty/directory/david-d-gamarnik) (MIT)
 * [Mert Gürbüzbalaban](https://mert-g.org/) (Rutgers)
+* [Boris Hanin](https://boris-hanin.github.io/) (Princeton)
 * [Nhat Ho](https://nhatptnk8912.github.io/) (UT Austin)
 * [Arthur Jacot](https://sites.google.com/view/arthurjacot/) (NYU)
 * [Bruno Loueiro](https://brloureiro.github.io/) (École Normale Supérieure)

@@ -84,7 +84,7 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 #### **8:00 – 9:00** Breakfast
 #### **9:00 – 10:00** *(Keynote)* Michael Mahoney
 #### **10:00 – 10:20** Break
-#### **10:20 – 11:05** TBD
+#### **10:20 – 11:05** Boris Hanin
 #### **11:05 - 11:50** [Mert Gürbüzbalaban](https://mert-g.org/) (Rutgers)
 
 **Heavy Tail Phenomenon in Stochastic Gradient Descent**
