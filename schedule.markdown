@@ -31,11 +31,7 @@ permalink: /schedule/
 *Abstract:* Understanding how neural networks learn features, or relevant patterns in data, for prediction is necessary for their reliable use in technological and scientific applications. We propose a unifying mechanism that characterizes feature learning in neural network architectures. Namely, we show that features learned by neural networks are captured by a statistical operator known as the average gradient outer product (AGOP). Empirically, we show that the AGOP captures features across a broad class of network architectures including convolutional networks and large language models. Moreover, we use AGOP to enable feature learning in general machine learning models through an algorithm we call Recursive Feature Machine (RFM). We show that RFM automatically identifies sparse subsets of features relevant for prediction and explicitly connects feature learning in neural networks with classical sparse recovery and low rank matrix factorization algorithms. Overall, this line of work advances our fundamental understanding of how neural networks extract features from data, leading to the development of novel, interpretable, and effective models for use in scientific applications.
 
 #### **2:30 – 2:50** Break
-#### **2:50 – 3:35** Zhichao Wang 
-
-**Signal propagation and feature learning in neural networks**
-
-*Abstract:* In this talk, I will first present some recent work for the extreme eigenvalues of sample covariance matrices with spiked population covariance. Extending previous random matrix theory, we will characterize the spiked eigenvalues outside the bulk distribution and their corresponding eigenvectors for a nonlinear version of the spiked covariance model. Then, we will apply this new result to deep neural network models. Many recent works have studied the eigenvalue spectrum of the Conjugate Kernel (CK) defined by the nonlinear feature map of a feedforward neural network. However, existing results only establish weak convergence of the empirical eigenvalue distribution and fall short of providing precise quantitative characterizations of the ''spike'' eigenvalues and eigenvectors that often capture the low-dimensional signal structure of the learning problem. Using our general result for spiked sample covariance matrices, we will give a quantitative description of how spiked eigenstructure in the input data propagates through the hidden layers of a neural network with random weights. As a second application, we can study a simple regime of representation learning where the weight matrix develops a rank-one signal component over gradient descent training and characterize the alignment of the target function with the spike eigenvector of the CK on test data. This analysis will show how neural networks learn useful features at the early stage of training. This is a joint work with Denny Wu and Zhou Fan.
+#### **2:50 – 3:35** Patrick Shafto
 
 #### **3:35 - 4:20** David Gamarnik
 
@@ -68,17 +64,26 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 
 #### **11:30 - 12:15** Katya Scheinberg
 #### **12:15 – 1:30** Lunch
-#### **1:30 – 2:50** Open problem session
-#### **2:50 – 3:10** Break
-#### **3:10 – 3:55** Courtney Paquette
+
+#### **1:30 – 1:45** Zhichao Wang 
+
+**Signal propagation and feature learning in neural networks**
+
+*Abstract:* In this talk, I will first present some recent work for the extreme eigenvalues of sample covariance matrices with spiked population covariance. Extending previous random matrix theory, we will characterize the spiked eigenvalues outside the bulk distribution and their corresponding eigenvectors for a nonlinear version of the spiked covariance model. Then, we will apply this new result to deep neural network models. Many recent works have studied the eigenvalue spectrum of the Conjugate Kernel (CK) defined by the nonlinear feature map of a feedforward neural network. However, existing results only establish weak convergence of the empirical eigenvalue distribution and fall short of providing precise quantitative characterizations of the ''spike'' eigenvalues and eigenvectors that often capture the low-dimensional signal structure of the learning problem. Using our general result for spiked sample covariance matrices, we will give a quantitative description of how spiked eigenstructure in the input data propagates through the hidden layers of a neural network with random weights. As a second application, we can study a simple regime of representation learning where the weight matrix develops a rank-one signal component over gradient descent training and characterize the alignment of the target function with the spike eigenvector of the CK on test data. This analysis will show how neural networks learn useful features at the early stage of training. This is a joint work with Denny Wu and Zhou Fan.
+
+#### **1:45 – 2:30** Courtney Paquette
 
 **Scaling Law: Compute Optimal Curves on a Simple Model**
 
 *Abstract:* We  describe a program of analysis of stochastic gradient methods on high dimensional random objectives.  We illustrate some assumptions under which the loss curves are universal, in that they can completely be described in terms of some underlying covariances.   Furthermore, we give description of these loss curves that can be analyzed precisely.   We show how this can be applied to SGD on a simple power-law model.  This is a simple two-hyperparameter family of optimization problems, which displays 4 distinct phases of loss curves; these phases are determined by the relative complexities of the target, data distribution, and whether these are ‘high-dimensional’ or not (which in context can be precisely defined).  In each phase, we can also give, for a given compute budget, the optimal parameter dimensionality. Joint work with Elliot Paquette (McGill), Jeffrey Pennington (Google Deepmind), and Lechao Xiao  (Google Deepmind).
 
-#### **3:55 - 4:40** Denny Wu
+#### **2:30 – 2:50** Break
+
+#### **2:50 - 3:35** Denny Wu
 
 **two variants of learning single-index models**
+
+#### **3:45 - 5:00** Open Problem Session
 
 #### **4:40 – 5:30** Small group discussions
 
