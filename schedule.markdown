@@ -33,6 +33,12 @@ permalink: /schedule/
 #### **2:30 – 2:50** Break
 #### **2:50 – 3:35** Patrick Shafto
 
+
+**Artificial Intelligence Quantified (AIQ)**
+
+*Abstract:* The Artificial Intelligence Quantified (AIQ) Program will develop technology to assess and understand the capabilities of Artificial Intelligence (AI) to enable guaranteed performance. The program will test the hypothesis that mathematical methods, combined with advances in measurement and modeling, will allow guaranteed quantification of generative AI capabilities. Specifically, the program will address three capability levels: 1) specific problem level, which considers mapping between individual inputs and outputs, 2) classes of problem level, which considers collections of inputs and associated outputs, and 3) natural class level, which considers which inputs are well-behaved with respect to the outputs via choice of architecture and/or data, aiming to address the quantification and assessment challenges at each level. I will outline the AIQ program’s technical goals and challenges.
+ 
+
 #### **3:35 - 4:20** David Gamarnik
 
 **A curious case of the symmetric binary perceptron model: Algorithms and algorithmic barriers**

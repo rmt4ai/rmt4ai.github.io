@@ -18,9 +18,10 @@ permalink: /participants/
 * [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (UC Berkeley)
 * [Marina Meila](https://sites.stat.washington.edu/mmp/) (U Washington)
 * [Courtney Paquette](https://cypaquette.github.io/) (McGill)
-* [Adit Radha](https://aditradha.com/)
+* [Adit Radha](https://aditradha.com/) (Harvard)
 * [Elizeveta Rebrova](https://erebrova.github.io/) (Princeton)
-* [Katya Scheinberg](https://scheinberg.engineering.cornell.edu/)
+* [Katya Scheinberg](https://scheinberg.engineering.cornell.edu/) (Cornell)
+* [Patrick Shafto](https://patrickshafto.com/) (DARPA/Rutgers)
 * [Zhichao Wang](https://mathweb.ucsd.edu/~zhw036/) (UCSD)
 * [Denny Wu](https://dennywu1.github.io/) (NYU)
 
