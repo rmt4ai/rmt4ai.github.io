@@ -15,7 +15,7 @@ permalink: /participants/
 * [Nhat Ho](https://nhatptnk8912.github.io/) (UT Austin)
 * [Arthur Jacot](https://sites.google.com/view/arthurjacot/) (NYU)
 * [Bruno Loueiro](https://brloureiro.github.io/) (École Normale Supérieure)
-* [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (UC Berkeley)
+* [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) (ICSI, LBNL, and Department of Statistics, UC Berkeley)
 * [Marina Meila](https://sites.stat.washington.edu/mmp/) (U Washington)
 * [Courtney Paquette](https://cypaquette.github.io/) (McGill)
 * [Adit Radha](https://aditradha.com/) (Harvard)
