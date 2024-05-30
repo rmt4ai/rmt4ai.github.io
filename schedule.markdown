@@ -131,7 +131,7 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 * *Understanding Adversarial Risks*, Natalie Frank
 * *Error in Variables Regression: Benigh Overfitting, Covariate shifts, and Underparameterized Double Descent*, Rishi Sonthalia
 * *Fiber Bundle Morphisms as a Framework for Modeling Many-to-Many Maps*, Lizzy Coda
-* *Understanding Machine Generated Content Via Embedding Models*, Max Vargas
+* *Bias Introduced by Machine Processing*, Max Vargas
 * *Uncertainty Quantification for Iterative Algorithms in Linear Models with Application to Early Stopping*, Kai Tan
 * *MORALS: Analysis of High-Dimensional Robot Controllers via Topological Tools in a Latent Space*, Ewerton Rocha Vieira
 * *Scaling and Renormalization in High-dimensional Regression*, Jacob Zavatone-Veth
