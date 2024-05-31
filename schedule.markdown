@@ -26,6 +26,12 @@ permalink: /schedule/
 
 **Kronecker-product random matrices and a matrix least-squares problem**	
 
+We study the eigenvalue distribution and resolvent of a Kronecker-product random matrix model $A \otimes I_{n \times n}+I_{n \times n} \otimes B+\Theta \otimes \Xi \in \mathbb{C}^{n^2 \times n^2}$, where $A,B$ are independent Wigner matrices and $\Theta,\Xi$ are deterministic and diagonal. For fixed spectral arguments, we establish a quantitative approximation for the Stieltjes transform by that of an approximating free operator, and a diagonal deterministic equivalent approximation for the resolvent. We further obtain sharp estimates in operator norm for the $n \times n$ resolvent blocks, and show that off-diagonal resolvent entries fall on two differing scales of $n^{-1/2}$ and $n^{-1}$ depending on their locations in the Kronecker structure.
+
+Our study is motivated by consideration of a matrix-valued least-squares optimization problem $\min_{X \in \mathbb{R}^{n \times n}} \frac{1}{2}\|XA+BX\|_F^2+\frac{1}{2}\sum_{ij} \xi_i\theta_j x_{ij}^2$ subject to a linear constraint. For random instances of this problem defined by Wigner inputs $A,B$, our analyses imply an asymptotic characterization of the minimizer $X$ and its associated minimum objective value as $n \to \infty$.
+
+This is joint work with Jack (Renyuan) Ma.
+
 ####	11:50 - 1:00	Lunch Break			
 ####	1:00 -1:45		Arthur Jacot	
 
