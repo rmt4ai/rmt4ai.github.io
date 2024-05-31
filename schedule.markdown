@@ -16,11 +16,11 @@ permalink: /schedule/
 
 ####	10:00 - 10:20	Break		
 	
-####	10:20 - 11:05		Courtney Paquette
+####	10:20 - 11:05	Liza Rebrova	
 
-**Scaling Law: Compute Optimal Curves on a Simple Model**	
+**On step size choices in stochastic and mini-batch gradient descent**	
 
-*Abstract:* We  describe a program of analysis of stochastic gradient methods on high dimensional random objectives.  We illustrate some assumptions under which the loss curves are universal, in that they can completely be described in terms of some underlying covariances.   Furthermore, we give description of these loss curves that can be analyzed precisely.   We show how this can be applied to SGD on a simple power-law model.  This is a simple two-hyperparameter family of optimization problems, which displays 4 distinct phases of loss curves; these phases are determined by the relative complexities of the target, data distribution, and whether these are ‘high-dimensional’ or not (which in context can be precisely defined).  In each phase, we can also give, for a given compute budget, the optimal parameter dimensionality. Joint work with Elliot Paquette (McGill), Jeffrey Pennington (Google Deepmind), and Lechao Xiao  (Google Deepmind).
+*Abstract:* First, I will talk about linear regression (and a little about ReLU regression). I will discuss robust stochastic gradient under the adversarial corruptions scenario and explain why exponentially decaying step size can be the right choice to ensure convergence. Then, for the least squares regression, I will discuss the connection between decreasing the mini-batch size when sampling without replacement, and decreasing the step size. These two changes have very similar effect on the convergence dynamic, but with subtle distinguishing effects that we propose to study via careful analysis of a certain anticommutator between sample covariance submatrices of the features. Based on the joint work with H. Jeong, D. Needell, J. Lok, and R. Sonthalia.
 
 ####	11:05 - 11:50		Zhou Fan	
 
@@ -87,7 +87,14 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 
 ####	3:00 - 3:20	Break			
 
-####	3:20 - 4:05 Bruno Loureiro	TBD	
+####	3:20 - 4:05 Bruno Loureiro
+
+**Learning features with two-layer neural networks, one step at a time**
+
+Feature learning - or the capacity of neural networks to adapt to the data during training - is often quoted as one of the fundamental reasons behind their unreasonable effectiveness. Yet, making mathematical sense of this seemingly clear intuition is still a largely open question. In this talk, I will discuss a simple setting where we can precisely characterise how features are learned by a two-layer neural network during the very first few steps of training, and how these features are essential for the network to efficiently generalise under limited availability of data.
+
+Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](https://arxiv.org/abs/2402.04980).
+
 ####	4:05 - 4:50 Nhat Ho	
 
 **Neural Collapse in Deep Neural Networks: From Balanced to Imbalanced Data**	
@@ -98,11 +105,14 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 
 		
 ####	8:00 - 9:00	Breakfast			
-####	9:00 - 9:45 Liza Rebrova	
 
-**On step size choices in stochastic and mini-batch gradient descent**	
 
-*Abstract:* First, I will talk about linear regression (and a little about ReLU regression). I will discuss robust stochastic gradient under the adversarial corruptions scenario and explain why exponentially decaying step size can be the right choice to ensure convergence. Then, for the least squares regression, I will discuss the connection between decreasing the mini-batch size when sampling without replacement, and decreasing the step size. These two changes have very similar effect on the convergence dynamic, but with subtle distinguishing effects that we propose to study via careful analysis of a certain anticommutator between sample covariance submatrices of the features. Based on the joint work with H. Jeong, D. Needell, J. Lok, and R. Sonthalia.
+####	9:00 - 9:45 Courtney Paquette
+
+**Scaling Law: Compute Optimal Curves on a Simple Model**	
+
+*Abstract:* We  describe a program of analysis of stochastic gradient methods on high dimensional random objectives.  We illustrate some assumptions under which the loss curves are universal, in that they can completely be described in terms of some underlying covariances.   Furthermore, we give description of these loss curves that can be analyzed precisely.   We show how this can be applied to SGD on a simple power-law model.  This is a simple two-hyperparameter family of optimization problems, which displays 4 distinct phases of loss curves; these phases are determined by the relative complexities of the target, data distribution, and whether these are ‘high-dimensional’ or not (which in context can be precisely defined).  In each phase, we can also give, for a given compute budget, the optimal parameter dimensionality. Joint work with Elliot Paquette (McGill), Jeffrey Pennington (Google Deepmind), and Lechao Xiao  (Google Deepmind).
+
 
 ####	9:45 - 10:30	 Mert Gürbüzbalaban
 
