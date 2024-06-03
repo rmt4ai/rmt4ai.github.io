@@ -10,9 +10,16 @@ permalink: /schedule/
 
 ####	8:00 - 8:45	Registration			
 ####	8:45 - 9:00	Welcoming Remarks		
-####	9:00 - 10:00	(Keynote)	Marina Meila 
+####	9:00 - 10:00	Keynote: Marina Meila 
 
-**TBA**
+**Manifold Coordinates with Physical Meaning**
+ 
+*Abstract:* We ask if it is possible, in the case of scientific data where quantitative prior knowledge is abundant, to explain a data manifold by new coordinates, chosen from a set of scientifically meaningful functions? The algorithm I will present, ManifoldLasso, can discover a subset of relevant coordinates from a user defined dictionary in fully non-parametric fashion. This is suppoerted by experiments on real data and theoretical recovery conditions.
+ 
+Second, we ask how popular Manifold Learning tools and their applications can be recreated in the space of  vector fields and flows on a manifold. Central to this approach is the order 1-Laplacian, $\Delta_1$, whose eigen-decomposition into gradient, harmonic, and curl  provides a basis for all vector fields on a manifold. We present an estimator for $\Delta_1$, and based on it a new algorithm for finding shortest independent loops.
+ 
+Joint work with  Yu-Chia Chen, Samson Koelle, Hanyu Zhang, Weicheng Wu and Ioannis Kevrekidis.
+ 
 
 ####	10:00 - 10:20	Break		
 	
@@ -57,7 +64,7 @@ This is joint work with Jack (Renyuan) Ma.
 					
 ####	8:00 - 9:00	Breakfast			
 
-####	9:00 - 10:00	Keynote 2	Michael Mahoney
+####	9:00 - 10:00 Keynote: 	Michael Mahoney
 
 **Practice, Theory, and Theorems for Random Matrix Theory in Modern Machine Learning**	
 
@@ -126,14 +133,19 @@ Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](http
 
 *Abstract*: Stochastic gradient descent (SGD) methods are workhorse methods for training machine learning models, particularly in deep learning. After presenting numerical evidence demonstrating that SGD iterates with constant step size can exhibit heavy-tailed behavior even when the data is light-tailed, in the first part of the talk, we delve into the theoretical origins of heavy tails in SGD iterations based on analyzing products of random matrices and their connection to various capacity and complexity notions proposed for characterizing SGD's generalization properties in deep learning. Key notions correlating with performance on unseen data include the 'flatness' of the local minimum found by SGD (related to the Hessian eigenvalues), the ratio of step size η to batch size b (controlling stochastic gradient noise magnitude), and the 'tail-index' (which measures the heaviness of the tails of the eigenspectra of the network weights). We argue that these seemingly disparate perspectives on generalization are deeply intertwined. Depending on the Hessian structure at the minimum and algorithm parameter choices, SGD iterates converge to a heavy-tailed stationary distribution. We rigorously prove this claim in linear regression, demonstrating heavy tails and infinite variance in iterates even in simple quadratic optimization with Gaussian data. We further analyze tail behavior with respect to algorithm parameters, dimension, and curvature, providing insights into SGD behavior in deep learning. Experimental validation on synthetic data and neural networks supports our theory. Additionally, we discuss generalizations to decentralized stochastic gradient algorithms and to other popular step size schedules including the cyclic step sizes. In the second part of the talk, we introduce a new class of initialization schemes for fully-connected neural networks that enhance SGD training performance by inducing a specific heavy-tailed behavior in stochastic gradients. Based on joint work with Yuanhan Hu, Umut Simsekli, and Lingjiong Zhu. 
 
-####	10:30 - 10:50 Break			
+####	10:30 - 10:50 Break		
+	
 ####	10:50 - 11:35 Katya Scheinberg
 
-**TBD**	
+**Stochastic Oracles and Where to Find Them**
+
+*Abstract:* Majority of continuous optimization methods developed in the last decade, especially in application to ML training, are developed under the assumption that  approximate first order information is available to the method in some form. The assumption on the quality and reliability of this information can vary substantially from method to method. We will overview different methods of obtaining this information, including simple stochastic gradient via sampling, robust gradient estimation in adversarial settings, traditional and randomized finite difference methods and more. We will also consider second order and other related oracels. We will attempt to propose a somewhat unified definition of stochastic oracles, under which to compare what exists in the literature.	
 
 ####	11:35 - 12:20 Boris Hanin 
 
-**TBD** 
+**Scaling Limits of Neural Networks**
+
+**Abstract:**  Large neural networks are often studied analytically through scaling limits: regimes in which taking some structural network parameters (e.g. depth, width, number of training datapoints, and so on) to infinity results in simplified models of network properties. I will survey several such approaches, starting with the NTK regime in which network width tends to infinity at fixed depth and dataset size. Here, networks are Gaussian processes at initialization and are equivalent to linear models (at least for regression tasks). While this regime is tractable, it precludes a study of feature learning. The deviation from this NTK regime is controlled at finite width by the depth-to-width ratio, which plays the role of the effective network depth. I will explain how this occurs and state several results on how this effective depth affects learning in neural networks. 
 	
 ####	12:20 - 2:00	Lunch and Discussion			
 
