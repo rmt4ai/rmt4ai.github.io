@@ -164,4 +164,5 @@ Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](http
 * *MORALS: Analysis of High-Dimensional Robot Controllers via Topological Tools in a Latent Space*, Ewerton Rocha Vieira
 * *Scaling and Renormalization in High-dimensional Regression*, Jacob Zavatone-Veth
 * *Theory of In-Context Learning for Regression with Linear Attention*, Mary Letey
-
+* *Unlocking Exact Recovery in Semi-Supervised Learning: Analysis of Spectral Method and Graph Convolution Network*, Haixiao Wang
+* *A Dynamical Model of Neural Scaling Laws*, Alexander Atanasov
