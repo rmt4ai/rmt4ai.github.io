@@ -40,12 +40,12 @@ Our study is motivated by consideration of a matrix-valued least-squares optimiz
 This is joint work with Jack (Renyuan) Ma.
 
 ####	11:50 - 1:00	Lunch Break			
-####	1:00 -1:45		Arthur Jacot	
+####	1:00 -1:45 Arthur Jacot	
 
 **Beyond the Lazy/Active Dichotomy: the Importance of Mixed Dynamics in Linear Networks**	
 
 
-####	1:45 - 2:00		Zhichao Wang	
+####	1:45 - 2:30	Zhichao Wang	
 
 **Signal propagation and feature learning in neural networks**	
 
