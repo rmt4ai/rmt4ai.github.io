@@ -108,7 +108,13 @@ Feature learning - or the capacity of neural networks to adapt to the data durin
 
 Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](https://arxiv.org/abs/2402.04980).
 
-####	4:05 - 4:50 Nhat Ho	
+####	4:05 - 4:50 Nhat Ho
+
+**Instability, Computational Efficiency and Statistical Accuracy**
+
+*Abstract:* Many statistical estimators are defined as the fixed point of a data-dependent operator, with estimators based on minimizing a cost function being an important special case. The limiting performance of such estimators depends on the properties of the population-level operator in the idealized limit of infinitely many samples. We develop a general framework that yields bounds on statistical accuracy based on the interplay between the deterministic convergence rate of the algorithm at the population level, and its degree of (in)stability when applied to an empirical object based on n samples. Using this framework, we analyze both stable forms of gradient descent and some higher-order and unstable algorithms, including Newton’s method and its cubic-regularized variant, as well as the EM algorithm. We provide applications of our general results to several concrete classes of singular statistical models, including Gaussian mixture estimation, single-index models, and informative non-response models. We exhibit cases in which an unstable algorithm can achieve the same statistical accuracy as a stable algorithm in exponentially fewer steps—namely, with the number of iterations being reduced from polynomial to logarithmic in sample size n. 
+
+This is based on joint work with Raaz Dwivedi, Koulik Khamaru, Tongzheng Ren, Purnamrita Sarkar, Sujay Sanghavi, Rachel Ward,  Martin J. Wainwright,  Michael I. Jordan,  Bin Yu.
 
 **Neural Collapse in Deep Neural Networks: From Balanced to Imbalanced Data**	
 
