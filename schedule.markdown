@@ -40,6 +40,7 @@ Our study is motivated by consideration of a matrix-valued least-squares optimiz
 This is joint work with Jack (Renyuan) Ma.
 
 ####	11:50 - 1:00	Lunch Break			
+
 ####	1:00 -1:45 Arthur Jacot	
 
 **Beyond the Lazy/Active Dichotomy: the Importance of Mixed Dynamics in Linear Networks**	
@@ -116,9 +117,6 @@ Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](http
 
 This is based on joint work with Raaz Dwivedi, Koulik Khamaru, Tongzheng Ren, Purnamrita Sarkar, Sujay Sanghavi, Rachel Ward,  Martin J. Wainwright,  Michael I. Jordan,  Bin Yu.
 
-**Neural Collapse in Deep Neural Networks: From Balanced to Imbalanced Data**	
-
-*Abstract:* Modern deep neural networks have achieved impressive performance on tasks from image classification to natural language processing. Surprisingly, these complex systems with massive amounts of parameters exhibit the same structural properties in their last-layer features and classifiers across canonical datasets when training until convergence. In particular, it has been observed that the last-layer features collapse to their class means, and those class-means are the vertices of a simplex Equiangular Tight Frame (ETF). This phenomenon is known as Neural Collapse (NC). Recent papers have theoretically shown that NC emerges in the global minimizers of training problems with the simplified “unconstrained feature model”. In this context, we take a step further and prove the NC occurrences in deep neural networks for the popular mean squared error (MSE) and cross-entropy (CE) losses, showing that global solutions exhibit NC properties across the linear layers. Furthermore, we extend our study to imbalanced data for MSE loss and present the first geometric analysis of NC under a bias-free setting. Our results demonstrate the convergence of the last-layer features and classifiers to a geometry consisting of orthogonal vectors, whose lengths depend on the amount of data in their corresponding classes. 
 			
 ### Friday, June 7, 2024
 
