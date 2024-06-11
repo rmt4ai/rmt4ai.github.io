@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Photo of Workshop Participants](/rmt4ai.github.io/assets/images/group_photo.png)
+![Photo of Workshop Participants](/images/group_photo.png)
 
 The DIMACS Workshop on Modeling Randomness in Neural Network Training: Mathematical, Statistical, and Numerical Guarantees was held at the [DIMACS Center](http://dimacs.rutgers.edu/) at [Rutgers University](http://www.rutgers.edu/) from **June 5-7, 2024**. The central question of this workshop was: *what can random matrix theory tell us about neural networks, modern machine learning, and AI?*
 
