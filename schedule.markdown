@@ -77,7 +77,7 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 
 ####	3:00 - 3:20	Break			
 
-####	3:20 - 4:05 Bruno Loureiro – Learning features with two-layer neural networks, one step at a time
+####	3:20 - 4:05 Bruno Loureiro – [Learning features with two-layer neural networks, one step at a time](/slides/LoueiroBruno_DIMACS_Slides2024)
 
 Feature learning - or the capacity of neural networks to adapt to the data during training - is often quoted as one of the fundamental reasons behind their unreasonable effectiveness. Yet, making mathematical sense of this seemingly clear intuition is still a largely open question. In this talk, I will discuss a simple setting where we can precisely characterise how features are learned by a two-layer neural network during the very first few steps of training, and how these features are essential for the network to efficiently generalise under limited availability of data.
 
