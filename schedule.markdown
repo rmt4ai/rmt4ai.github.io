@@ -61,8 +61,9 @@ This is joint work with Jack (Renyuan) Ma.
 *Abstract:* Understanding how neural networks learn features, or relevant patterns in data, for prediction is necessary for their reliable use in technological and scientific applications. We propose a unifying mechanism that characterizes feature learning in neural network architectures. Namely, we show that features learned by neural networks are captured by a statistical operator known as the average gradient outer product (AGOP). Empirically, we show that the AGOP captures features across a broad class of network architectures including convolutional networks and large language models. Moreover, we use AGOP to enable feature learning in general machine learning models through an algorithm we call Recursive Feature Machine (RFM). We show that RFM automatically identifies sparse subsets of features relevant for prediction and explicitly connects feature learning in neural networks with classical sparse recovery and low rank matrix factorization algorithms. Overall, this line of work advances our fundamental understanding of how neural networks extract features from data, leading to the development of novel, interpretable, and effective models for use in scientific applications.
 
 ####	11:30 - 12:15 Alex Cloninger – Deep learning based two sample tests with small data and small networks
-####	12:15 - 1:30	Lunch			
-####	1:30 - 2:15	David Gamarnik	– A curious case of the symmetric binary perceptron model: Algorithms and algorithmic barriers
+####	12:15 - 1:30	Lunch
+			
+####	1:30 - 2:15	David Gamarnik	– [A curious case of the symmetric binary perceptron model: Algorithms and algorithmic barriers](/slides/GamarnikDavid_DIMACS_Slides2024.pdf)
 	
 *Abstract:* Symmetric binary perceptron is a random model of a perceptron where a classifier is required to stay within a symmetric interval around zero, subject to randomly generated data. This model  exhibits an interesting and puzzling property: the existence of a polynomial time algorithm for finding a solution (classifier) coincides with the presence of an extreme form of  clustering. The latter means that  most of the satisfying solutions are singletons separated by large distances. For the majority of other random constraint satisfaction problems of this kind, this typically suggests algorithmic hardness, which evidently is not  the case for the symmetric perceptron model.
  
@@ -77,13 +78,13 @@ Joint work with Eren Kizildag (Columbia University), Will Perkins (Georgia Insti
 
 ####	3:00 - 3:20	Break			
 
-####	3:20 - 4:05 Bruno Loureiro – [Learning features with two-layer neural networks, one step at a time](/slides/LoueiroBruno_DIMACS_Slides2024)
+####	3:20 - 4:05 Bruno Loureiro – [Learning features with two-layer neural networks, one step at a time](/slides/LoueiroBruno_DIMACS_Slides2024.pdf)
 
 Feature learning - or the capacity of neural networks to adapt to the data during training - is often quoted as one of the fundamental reasons behind their unreasonable effectiveness. Yet, making mathematical sense of this seemingly clear intuition is still a largely open question. In this talk, I will discuss a simple setting where we can precisely characterise how features are learned by a two-layer neural network during the very first few steps of training, and how these features are essential for the network to efficiently generalise under limited availability of data.
 
 Based on the following works: [1](https://arxiv.org/abs/2305.18270) and [2](https://arxiv.org/abs/2402.04980).
 
-####	4:05 - 4:50 Nhat Ho – [Instability, Computational Efficiency and Statistical Accuracy](/slides/HoNhat_DIMACS_Slides2024)
+####	4:05 - 4:50 Nhat Ho – [Instability, Computational Efficiency and Statistical Accuracy](/slides/HoNhat_DIMACS_Slides2024.pdf)
 
 *Abstract:* Many statistical estimators are defined as the fixed point of a data-dependent operator, with estimators based on minimizing a cost function being an important special case. The limiting performance of such estimators depends on the properties of the population-level operator in the idealized limit of infinitely many samples. We develop a general framework that yields bounds on statistical accuracy based on the interplay between the deterministic convergence rate of the algorithm at the population level, and its degree of (in)stability when applied to an empirical object based on n samples. Using this framework, we analyze both stable forms of gradient descent and some higher-order and unstable algorithms, including Newton’s method and its cubic-regularized variant, as well as the EM algorithm. We provide applications of our general results to several concrete classes of singular statistical models, including Gaussian mixture estimation, single-index models, and informative non-response models. We exhibit cases in which an unstable algorithm can achieve the same statistical accuracy as a stable algorithm in exponentially fewer steps—namely, with the number of iterations being reduced from polynomial to logarithmic in sample size n. 
 
